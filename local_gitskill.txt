@@ -1,3 +1,9 @@
 local gitskills
+<<<<<<< HEAD
 through dev modify
 through dev modify
+=======
+through dev modify1
+>>>>>>> 8fe771ff4332ab1b2eb5a5557b826ede1a8c50ac
+
+add123
